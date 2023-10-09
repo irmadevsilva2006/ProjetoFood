@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "3PeYh4j43LmuhJIXN+s+xCm5gjDY5bt55lzJoRlQHGI=",
+  "Hash": "94t8+FW0Q/1sHJsgzGh7OyWMD1LpYYNo6cluuHkBz8o=",
   "Source": "ProjetoFood",
   "BasePath": "_content/ProjetoFood",
   "Mode": "Default",
@@ -83,6 +83,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\favicon.ico"
+    },
+    {
+      "Identity": "C:\\DEV\\cs\\ProjetoFood\\wwwroot\\imagem\\logo.png",
+      "SourceId": "ProjetoFood",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\DEV\\cs\\ProjetoFood\\wwwroot\\",
+      "BasePath": "_content/ProjetoFood",
+      "RelativePath": "imagem/logo.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\imagem\\logo.png"
     },
     {
       "Identity": "C:\\DEV\\cs\\ProjetoFood\\wwwroot\\js\\site.js",

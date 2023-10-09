@@ -13,6 +13,10 @@
       "PackagePath": "staticwebassets\\favicon.ico"
     },
     {
+      "Id": "C:\\DEV\\cs\\ProjetoFood\\wwwroot\\imagem\\logo.png",
+      "PackagePath": "staticwebassets\\imagem\\logo.png"
+    },
+    {
       "Id": "C:\\DEV\\cs\\ProjetoFood\\wwwroot\\js\\site.js",
       "PackagePath": "staticwebassets\\js\\site.js"
     },
